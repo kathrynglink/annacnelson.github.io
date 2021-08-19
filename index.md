@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Anna C. Nelson
   William W. Elliott Assistant Research Professor
-feature_image: "IMG_0591.jpg"
+feature_image: "Untitled.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 

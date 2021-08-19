@@ -9,5 +9,5 @@ excerpt: "This."
 
 This is a test. 
 
-{% include figure.html image="newheadshot.png" width="300" height="800" float: right%}
+{% include figure.html image="newheadshot.png" width="300" height="800" %}
 

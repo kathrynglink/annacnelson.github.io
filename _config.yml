@@ -124,11 +124,11 @@ navigation_header:
 - title: About
   url: /
 - title: Research
-  url: /elements/
+  url: /research/
 - title: Teaching
-  url: /blog/
+  url: /teaching/
 - title: CV
-  url: /categories/
+  url: /cv/
 
 navigation_footer:
 - title: 

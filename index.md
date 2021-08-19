@@ -7,5 +7,7 @@ feature_image: "Untitled.jpg"
 excerpt: "This."
 ---
 
-This is a test. {% include figure.html image="newheadshot.png" position="right" width="300" height="800" %}
+This is a test. 
+
+{% include figure.html image="newheadshot.png" position="right" width="300" height="800" %}
 

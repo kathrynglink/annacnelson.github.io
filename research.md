@@ -2,15 +2,20 @@
 title: 
 layout: page
 feature_text: |
-  ## Anna C. Nelson
-  William W. Elliott Assistant Research Professor
-feature_image: "https://annacnelson.github.io/Untitled.jpg"
+  ## Research
+feature_image: "https://annacnelson.github.io/DSC_0617.JPG"
 excerpt: "This."
 aside: true
 ---
 
-Since Fall 2021, I am a William W. Elliott Assistant Research Professor in the [Department of Mathematics](https://math.duke.edu/ "Department of Mathematics") at Duke University, where I am working with [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/ "Veronica Ciocanel") and Michael Reed. Prior to Duke, I completed my Ph.D. in mathematics in the [Department of Mathematics](https://math.utah.edu "Department of Mathematics") at the University of Utah under the supervision of [Aaron L. Fogelson](https://math.utah.edu/~fogelson "Aaron L. Fogelson" ). 
+I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes, such as blood coagulation, intracellular transport, and metabolism. In particular, my research interests include dynamical systems, ordinary and partial differential equations, and parameter estimation.
 <hr/>
-### Education
-* Ph.D. in Mathematics, May 2021, [University of Utah](https://www.utah.edu/ "University of Utah")
-* B.Sc. in Applied Mathematics, December 2012, [Boise State University](https://www.boisestate.edu/ "Boise State University")
+### Publications
+* **A. C. Nelson** and A. L. Fogelson. "Towards understanding the effect of fibrinogen on fibrin gel formation." In preparation. 
+* A. L. Fogelson, **A. C. Nelson**, C. Zapata-Allegro, and J. P. Keener. "Development of fibrin branch structure before and after gelation." Submitted.
+* **A. C. Nelson**, M. A. Kelley, L. M. Haynes, and K. Leiderman. "Using Mathematical Modeling to Understand the Fibrin Polymerization Trifecta: Fibrin(ogen), Thrombin, and FXIII." Submitted.
+* **A. C. Nelson**, J. P. Keener, and A. L. Fogelson. "Kinetic model of two-monomer polymerization". Physical Review E, 101, 022501 (2020).
+* J. L. Herlin, **A. Nelson**, and M. Scheepers. "Using ciliate operations to construct chromosome phylogenies". Involve, Vol. 9, No. 1 (2016).
+
+<hr/> 
+### Talks

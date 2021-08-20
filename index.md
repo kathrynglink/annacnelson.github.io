@@ -14,6 +14,7 @@ Since Fall 2021, I am a William W. Elliott Assistant Research Professor in the [
 
 ## Education
 Ph.D. in Mathematics, May 2021, Department of Mathematics, University of Utah
+
 B.Sc. in Applied Mathematics, December 2012, [Boise State University](https://www.boisestate.edu/ "Boise State University")
 
 

@@ -1,5 +1,6 @@
 ---
 title: 
+layout: page
 feature_text: |
   ## Research
 feature_image: "DSC_0617.JPG"

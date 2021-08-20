@@ -1,8 +1,8 @@
 ---
-title: Research
+title: 
 feature_text: |
-  Research
-feature_image: "DSC_0091 (1).JPG"
+  ## Research
+feature_image: "DSC_0617.JPG"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---

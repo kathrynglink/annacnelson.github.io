@@ -1,6 +1,6 @@
 ---
 title: 
-layout: page
+layout: home
 feature_text: |
   ## Anna C. Nelson
   William W. Elliott Assistant Research Professor

@@ -1,10 +1,10 @@
 ---
 title: 
-layout: blog
+layout: page
 feature_text: |
   ## Anna C. Nelson
   William W. Elliott Assistant Research Professor
-feature_image: "Untitled.jpg"
+feature_image: "../Untitled.jpg"
 excerpt: "This."
 aside: true
 ---

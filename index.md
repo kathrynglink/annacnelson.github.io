@@ -5,6 +5,7 @@ feature_text: |
   William W. Elliott Assistant Research Professor
 feature_image: "Untitled.jpg"
 excerpt: "This."
+aside: true
 ---
 
 This is a test. 

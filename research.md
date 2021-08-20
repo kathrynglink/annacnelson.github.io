@@ -3,7 +3,7 @@ title:
 layout: page
 feature_text: |
   ## Research
-feature_image: "https://annacnelson.github.io/DSC_0685 (1).JPG"
+feature_image: "https://annacnelson.github.io/DSC_0685.JPG"
 excerpt: "This."
 aside: true
 ---

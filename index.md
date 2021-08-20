@@ -12,6 +12,9 @@ Since Fall 2021, I am a William W. Elliott Assistant Research Professor in the [
 
 <hr/>
 
-I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes, such as blood coagulation, intracellular transport, and metabolism. In particular, my research interests include dynamical systems, PDEs, and parameter estimation. 
+## Education
+Ph.D. in Mathematics, May 2021, Department of Mathematics, University of Utah
+B.Sc. in Applied Mathematics, December 2012, [Boise State University](https://www.boisestate.edu/ "Boise State University")
+
 
 

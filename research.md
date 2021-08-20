@@ -7,6 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
+I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes, such as blood coagulation, intracellular transport, and metabolism. In particular, my research interests include dynamical systems, PDEs, and parameter estimation. 
+
 # Heading 1
 
 ## Heading 2

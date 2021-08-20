@@ -243,6 +243,7 @@ figure {
 hr {
   box-sizing: content-box; /* 1 */
   height: 0; /* 1 */
+  margin-top: 1px; margin-bottom: 1px;
   overflow: visible; /* 2 */
 }
 

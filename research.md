@@ -1,5 +1,6 @@
 ---
 title: 
+layout: page
 feature_text: |
   ## Anna C. Nelson
   William W. Elliott Assistant Research Professor

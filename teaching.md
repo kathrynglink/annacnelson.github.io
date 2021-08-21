@@ -7,9 +7,9 @@ feature_image: "https://annacnelson.github.io/DSC_0114.JPG"
 excerpt: "This."
 ---
 
-I have had the opportunity to teach a wide variety of courses at University of Utah and at Duke University. Links to the course syllabi are below. During 2018-2019, I was a recipient University Teaching Assistantship recipient from the Graduate School at Utah with another graduate student, under the project Graduate Teaching Mentor Program.
+I have had the opportunity to teach a wide variety of courses at University of Utah and at Duke University. During 2018-2019, I was a recipient University Teaching Assistantship recipient from the Graduate School at Utah to continue a peer mentorship program for graduate students. 
 
-I am passionate about teaching pedagogy and training graduate student instructors in teaching best practices. I have been involved with the Utah Math Instructor Training Workshop for 3 years, and have been the lead graduate student facilitator for two years. Aimed at incoming graduate students and postdocs, the eight day long workshop includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
+I am passionate about teaching pedagogy and training graduate student instructors in teaching best practices. I have been involved with the Utah Math Instructor Training Workshop for 3 years, which is an annual workshop that includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
 <hr/>
 
 ### Past Teaching Experience

@@ -7,12 +7,19 @@ feature_image: "https://annacnelson.github.io/DSC_0114.JPG"
 excerpt: "This."
 ---
 
-I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes such as blood coagulation, intracellular transport, and metabolism. In particular, my research interests include dynamical systems, ordinary and partial differential equations, and parameter estimation.
-<hr/>
-### Past Teaching Experience
-* 
+I have had the opportunity to teach a wide variety of courses at University of Utah and at Duke University. Links to the course syllabi are below. During 2018-2019, I was a recipient University Teaching Assistantship recipient from the Graduate School at Utah with another graduate student, under the project Graduate Teaching Mentor Program.
 
-<hr/> 
-### Talks
+I am passionate about teaching pedagogy and training graduate student instructors in teaching best practices. I have been involved with the Utah Math Instructor Training Workshop for 3 years, and have been the lead graduate student facilitator for two years. Aimed at incoming graduate students and postdocs, the eight day long workshop includes practice lectures, workshops on campus-wide resources, and teaching pedagogy workshops.
+<hr/>
+
+### Past Teaching Experience
+* Math 353: Elementary Differential Equations and Boundary Value Problems [Fall 2021, Duke]
+* Math 2250: Differential Equations and Linear Algebra [Spring 2019, U. of Utah]
+* Math 1220: Calculus II [Spring 2018, U. of Utah]
+* Math 1100: Business Calculus [Fall 2017, U. of Utah]
+* Math 1050: College Algebra [Fall 2016, Spring 2017, Summer 2017 (online), U. of Utah]
+* Math 1030: Intro to Quantitative Reasoning [Spring 2016, Summer 2016 (online), Summer 2018 (online), U. of Utah]
+
+
 
 

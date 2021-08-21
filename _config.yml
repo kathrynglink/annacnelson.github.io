@@ -94,7 +94,7 @@ lang: en-GB # Set the site language
 title: "Anna C. Nelson" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "William W. Elliott Assistant Research Professor" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+#url: # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/annacnelson/annacnelson"
 email: "anelson@math.duke.edu"
@@ -134,7 +134,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/anna_c_nelson
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/anna-nelson-a4308316a
  # GitHub: https://github.com/daviddarnes
   link: https://scholars.duke.edu/person/anna.nelson
  # RSS: /feed.xml

@@ -15,8 +15,3 @@ I am motivated by problems at the intersection of biology and mathematics, and a
 * **A. C. Nelson**, M. A. Kelley, L. M. Haynes, and K. Leiderman. "Using Mathematical Modeling to Understand the Fibrin Polymerization Trifecta: Fibrin(ogen), Thrombin, and FXIII." Submitted.
 * **A. C. Nelson**, J. P. Keener, and A. L. Fogelson. "Kinetic model of two-monomer polymerization". [Physical Review E, 101, 022501 (2020)](https://link.aps.org/doi/10.1103/PhysRevE.101.022501).
 * J. L. Herlin, **A. Nelson**, and M. Scheepers. "Using ciliate operations to construct chromosome phylogenies". [Involve, Vol. 9, No. 1 (2016)](http://dx.doi.org/10.2140/involve.2016.9.1).
-
-<hr/> 
-### Talks
-
-

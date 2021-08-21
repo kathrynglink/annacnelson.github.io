@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Anna C. Nelson
-  William W. Elliott Assistant Research Professor
+  Department of Mathematics, Duke University
 feature_image: "Untitled.jpg"
 excerpt: "This."
 aside: true
